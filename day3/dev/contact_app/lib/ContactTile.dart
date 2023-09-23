@@ -1,3 +1,5 @@
+// ignore_for_file: file_names, implementation_imports, unused_import, unnecessary_import, prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
