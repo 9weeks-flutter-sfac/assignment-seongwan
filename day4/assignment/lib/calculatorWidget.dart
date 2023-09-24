@@ -32,8 +32,8 @@ class Calculator extends StatelessWidget {
                       X = int.parse(value);
                     },
                     decoration: InputDecoration(
-                    border: OutlineInputBorder(),
-                    labelText: 'x값을 입력하세요',
+                      border: OutlineInputBorder(),
+                      labelText: 'x값을 입력하세요',
                     ),
                   ),
                 ),

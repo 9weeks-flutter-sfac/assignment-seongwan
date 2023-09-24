@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
             labelStyle: TextStyle(color: Colors.green),
             hintText: 'example@email.com',
             fillColor: Colors.black12,
-            filled: true,  // 색상을 채운다.
+            filled: true,  // fillColor로 설정한 색상으로  채우려면 필요하다.
           ),
         ),
       ),
