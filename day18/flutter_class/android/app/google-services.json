@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741669164619",
+    "project_id": "sfac-test-46ab9",
+    "storage_bucket": "sfac-test-46ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741669164619:android:6e312cbda02bf2d26a5fce",
+        "android_client_info": {
+          "package_name": "com.example.flutter_class"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8wCzSETCzYdfo-tlOi9esPJq7cYEE0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
