@@ -27,7 +27,7 @@ class _FirstPageState extends State<FirstPage> {
   void _onRefresh() async {
     // monitor network fetch
     await Future.delayed(Duration(milliseconds: 1000));
-    // if failed,use refreshFailed()
+    // if failed, use refreshFailed()
 
     // idx += 1;
     // if (idx >= imageUrl.length) idx = 0;

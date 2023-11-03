@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.black12,
           elevation: 0,  // 그림자
           child: Icon(Icons.add),
-          mini: true,
+          mini: true,  // 크기 작게.
         ),
       )
     );
